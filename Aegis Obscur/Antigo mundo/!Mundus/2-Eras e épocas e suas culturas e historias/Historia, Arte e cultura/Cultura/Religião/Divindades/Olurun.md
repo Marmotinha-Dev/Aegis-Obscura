@@ -1,0 +1,1 @@
+Na religião Lycothiana Olurun é uma divindade suprema. Ele é considerado o criador de tudo e o detentor de todo conhecimento e poder. Olurun é adorado como o ser supremo e está acima de todas ass outras divindades. Ele é associado à criação do universo e o Deus do conhecimento e da magia, e é visto como o guardião do equilíbrio de todas as coisas.

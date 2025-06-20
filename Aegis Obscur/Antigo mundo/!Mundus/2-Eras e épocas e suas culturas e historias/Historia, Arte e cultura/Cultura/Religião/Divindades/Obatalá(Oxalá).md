@@ -1,0 +1,1 @@
+Obatalá(Oxalá) e o criador da [[humanidade]], bem como o pai de todos os [[Orixás]]. Acredita-se que Obatalá tenha moldado os seres humanos a partir do barro e soprado vida neles. Ele também foi o primeiro [[Orixás]] criado por [[Orum]].

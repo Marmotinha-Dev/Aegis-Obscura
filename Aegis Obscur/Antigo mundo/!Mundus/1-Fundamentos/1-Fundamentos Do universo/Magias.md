@@ -1,0 +1,1 @@
+As magias e um termo geral para qualquer habilidade ou capacidade de molda a existência e a realidade de coisas naturais e não naturais.   

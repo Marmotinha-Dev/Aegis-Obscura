@@ -1,0 +1,36 @@
+/*@settings
+name: Callout Adjustments
+id: callout-adjustments
+settings:
+    - 
+        id: info-text-SlRvb-callouts
+        type: info-text
+        title: Callout Adjustments by SlRvb
+        description: "[Callout Snippet How-To Guide](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments)"
+        markdown: true
+    -
+        title: Callout Styling
+        id: callout-style
+        type: class-select
+        allowEmpty: true
+        default: none
+        options:
+            - 
+                label: Original Callout Styling
+                value: callout-original
+            -
+                label: Callout Block Styling
+                value: callout-block
+            -
+                label: Callout Alternate Line Styling
+                value: callout-alternate-line
+    #- 
+    #    title: Center Callout Titles
+    #    id: co-ttl-ctr
+    #    type: class-toggle
+*/
+
+
+
+//@use 'Insiders ITS Theme/Custom CSS/CCSS-SlRvb - Callouts' as CO;
+@use 'Theme Rewrite/custom-css/callouts'

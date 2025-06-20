@@ -1,0 +1,1 @@
+A feitiçaria é o termo usado para descrever os usuários nascidos com os Dons de segunda classe. Esses indivíduos possuem uma capacidade inata para realizar magias de combate, como a invocação de elementos como fogo, água, terra e ar. No entanto, é extremamente raro encontrar feiticeiros que possuam dons não elementais, como a habilidade de reviver e controlar mortos-vivos.

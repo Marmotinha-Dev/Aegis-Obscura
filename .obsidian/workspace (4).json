@@ -1,0 +1,693 @@
+{
+  "main": {
+    "id": "bd9bc2a3476d904d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f03e0a75d7ba082b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4bd34aba8dfb3b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "TimeLine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":32.03076923076923}"
+                },
+                {
+                  "title": "Idade aenitica",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade aenitica.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Idade da Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade da Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A era do amanhecer, Aeloria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/A era do amanhecer, Aeloria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Período Antes Da Grande separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Período/Período Antes Da Grande separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A era do amanhecer, Aeloria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/A era do amanhecer, Aeloria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":255},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Oque é",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/Oque é.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TimeLine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "Idade Neolítica",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade Neolítica.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":21},\"to\":{\"line\":0,\"ch\":40}},\"scroll\":0}"
+                },
+                {
+                  "title": "Idade do Éter Primordial",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade do Éter Primordial.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":29},\"to\":{\"line\":0,\"ch\":34}}}"
+                },
+                {
+                  "title": "Idade Neolítica",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade Neolítica.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":25},\"to\":{\"line\":0,\"ch\":25}}}"
+                },
+                {
+                  "title": "Idade do Éter Primordial",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade do Éter Primordial.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":28},\"to\":{\"line\":0,\"ch\":44}}}"
+                },
+                {
+                  "title": "Idade Neolítica",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade Neolítica.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Idade do Éter Primordial",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade do Éter Primordial.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":259},\"to\":{\"line\":9,\"ch\":259}}}"
+                },
+                {
+                  "title": "TimeLine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":48},\"to\":{\"line\":0,\"ch\":48}},\"scroll\":0}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TimeLine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TimeLine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TimeLine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gênese do Éter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/Gênese do Éter.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "nota para eu nao esquecer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/nota para eu nao esquecer.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gênese do Éter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/Gênese do Éter.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":48},\"to\":{\"line\":25,\"ch\":48}},\"scroll\":0}"
+                },
+                {
+                  "title": "Guia Do mundo-",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/Guia Do mundo-.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.42452830188679}"
+                },
+                {
+                  "title": "Raças",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Raças.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Veias de mana",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/1-FundamentOS Do universo/Veias de mana.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Old Laguna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/1-FundamentOS Do universo/Old Laguna.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Oque é",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/Oque é.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":314},\"to\":{\"line\":1,\"ch\":314}},\"scroll\":0.8658008658008658}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8077748327653667}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1fe45e71d83ba75",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nivaliths (Revisado)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Nivaliths (Revisado).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":55},\"to\":{\"line\":62,\"ch\":55}},\"scroll\":0}"
+                },
+                {
+                  "title": "Silvrenth (Revisado)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Silvrenth (Revisado).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":0},\"to\":{\"line\":58,\"ch\":0}},\"scroll\":47.37802797679973}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Silvrenth (Revisado).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cac98ff6995ea022",
+    "type": "split",
+    "children": [
+      {
+        "id": "e558b07622ab4fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6afb1652910b447e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03f7b51e7e715a6f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975eb7ae19007083",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "3a8b4e9c63ca81e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d0f4829c4707f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362d26da079ccbc9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02b2f85041d761f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5fafd8dc60f6058",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "052aa1ece6633c42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md"
+              }
+            }
+          },
+          {
+            "id": "e72b47afccd3ff92",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b76affe21ec67b45",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c426248de2b0b560",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f881ec65aa7985e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fcfabc67bb9bf83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "5988ba913082e64d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "aHR0cHM6Ly90c3JkLmZhbmRvbS5jb20vcHQtYnIvd2lraS9DYXRlZ29yaWE6UmElQzMlQTdhc19uJUMzJUEzby1vZmljaWFpcw==",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfd0cd05e856a958",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "aHR0cHM6Ly90c3JkLmZhbmRvbS5jb20vcHQtYnIvd2lraS9DYXRlZ29yaWE6UmElQzMlQTdhc19PZmljaWFpcw==",
+              "state": {}
+            }
+          },
+          {
+            "id": "b860d503e8da9802",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "deb4de43038863bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbee32529ffb1a22",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "horizontal",
+    "width": 454.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "open-gate:Raças": false,
+      "open-gate:raças 1": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-map-view:Open map view": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "invio:Invio": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "7e4bd34aba8dfb3b",
+  "lastOpenFiles": [
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Mapa do desenvolvimento das linhagens e raças.md",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Silvrenth (Revisado).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Nivaliths (Revisado).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Sylthorians.md",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/A História da Grande Separação.md",
+    "Linhagem_das_Raças.png",
+    "Vilia 2023-09-03-19-35/fmg_tile_0.png",
+    "Vilia 2023-09-03-19-35/fmg_tile_1.png",
+    "Vilia 2023-09-03-19-35/fmg_tile_schema.png",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Therianos/Elyguaniy (nova).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Therianos/Cylianos.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Therianos/Elysídeos.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Therianos/Lymia (novo).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Therianos/Vulfen.md",
+    "raças.jpeg.crdownload",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/valiscos.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/Tilyfing.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/Salyius.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/Elysisus (novo).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/Ekalysy (novo).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/draconian.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Abissaris/Oniynix.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Stellamara.md",
+    "linagens.jpeg",
+    "Pasted Image 20230903222231_578.png",
+    "Pasted Image 20230903222744_279.png",
+    "Vilia 2023-09-03-19-46.jpeg",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Lycoth ( Revisado).md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/1-Élirios.md",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Idades/Idade da Separação.md",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Mapa do desenvolvimento das linhagens e raças.md",
+    "Vilia 2023-09-03-19-35/fmg_tile_2.png",
+    "raças.jpeg",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/Oque é.md",
+    "Excalidraw",
+    "Vilia 2023-09-03-19-35",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era do Crepúsculo de  Eclipta/Período",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Auranthia/Período",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Aeloria/Período",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era do Crepúsculo de  Eclipta/Idades",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras/Era de Auranthia/Idades",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/1-Eras",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia Arte e cultura/Historia/1- períodos Da Historia/Período",
+    "Notas de Criação/Sem título.canvas",
+    "Fundamentos/Raças/Untitled.canvas",
+    "Sem título.canvas"
+  ]
+}

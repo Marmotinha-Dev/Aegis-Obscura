@@ -1,0 +1,1 @@
+A Humanidade é um termo geral para toda a população das especies,povo e raças. 

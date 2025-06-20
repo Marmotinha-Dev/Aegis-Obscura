@@ -1,0 +1,13 @@
+.bookmark {
+    & + .tree-item-children { 
+        --nav-item-children-margin-left: 12px; 
+        --nav-item-children-padding-left: 4px;
+    }
+    &.tree-item-self.mod-collapsible {
+        --nav-item-weight: 900;
+    }
+    &.tree-item-self { gap: 4px; }
+}
+.workspace-leaf-content[data-type=bookmarks] .view-content {
+    padding: 0 var(--size-4-2);
+}

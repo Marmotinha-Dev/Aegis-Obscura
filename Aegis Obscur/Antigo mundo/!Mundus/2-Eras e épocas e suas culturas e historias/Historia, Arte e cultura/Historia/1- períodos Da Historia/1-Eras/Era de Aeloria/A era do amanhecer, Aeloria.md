@@ -1,0 +1,1 @@
+A Era de Aeloria é caracterizada pelo significativo desenvolvimento cultural, mágico e racial, marcando o surgimento das primeiras comunidades e nações. Foi um período repleto de conflitos armados e explorações marítimas, que moldaram o curso da história.

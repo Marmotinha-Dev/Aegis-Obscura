@@ -1,0 +1,3 @@
+Tags: #Magitechnologia #magia #magimaquinas #magiengenharia #magitechnologia
+Magimaquinas magiengenharia magitechnologia etc:
+Esse tipo de magia e usando a magia de circulos para cria maquinas magicas entre outras coisas movidas a energia, basicamente por usar corcuitos eletrônicos usa-se circulos magicos diferente da magia circula que usar a tabela periódica magica aqui usa-se ciculos magicos para transferi e pasar energia magica para executar algum circuito. Obs: tenho que ver que tipo de energia que vou usar pois ser eu usar a mama ou ate mesmo éter isso tornaria a  technologia muito forte pois usaria energia quase infinito tornando inviável

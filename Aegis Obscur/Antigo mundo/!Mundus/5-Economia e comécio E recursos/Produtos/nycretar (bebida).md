@@ -1,0 +1,1 @@
+A bebida Nycretar é deliciosa, com um sabor doce e refrescante. É uma bebida alcoólica produzida a partir da fruta [[nycra (fruta)]]. o único local aonde e produzida e na [[vila da lua crescente]]

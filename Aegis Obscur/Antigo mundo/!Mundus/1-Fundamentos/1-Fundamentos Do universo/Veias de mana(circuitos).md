@@ -1,0 +1,1 @@
+As veias de mana ou seu termo técnico, Circuitos mágicos. São conexões que conectam o núcleo, [[Old]] ao resto do corpo, podem ser treinandos para melhoria de suas capacidades, como o transporte de mana ou a capacidade de produção e armazenamento. Quando o individuo usa magia e ativado os circuitos mágicos pelo corpo. esses circuitos possuem a azul celeste com um forte brilho.

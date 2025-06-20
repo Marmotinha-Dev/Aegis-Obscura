@@ -1,0 +1,2 @@
+Tags: #OldLaguna #fundamento 
+"" Ele é o arquiteto supremo do universo, a fonte primordial de toda magia e a personificação do equilíbrio cósmico. Old Laguna é o elo entre todas as coisas, a conexão que permeia todos os seres e planos de existência. Ele é o começo e o fim, a dança eterna do caos e da ordem, o condutor das energias místicas que fluem pelo universo. Nenhuma força pode se igualar à sua grandeza, e sua vontade é inquestionável. ""

@@ -1,0 +1,1464 @@
+{
+  "main": {
+    "id": "bd9bc2a3476d904d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f41a5726fd5dd22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5846f709b7809b52",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elfos masculino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Elfos masculino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "gnomoFeminina",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/gnomoFeminina.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ElfoFeminino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/ElfoFeminino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos masculino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Elfos masculino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "elfo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/elfo.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":4.833532632638932}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":30},\"to\":{\"line\":16,\"ch\":30}},\"scroll\":14.591796875}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":31},\"to\":{\"line\":18,\"ch\":31}}}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":12},\"to\":{\"line\":17,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":101},\"to\":{\"line\":19,\"ch\":101}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":200},\"to\":{\"line\":16,\"ch\":200}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":27},\"to\":{\"line\":18,\"ch\":27}}}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":69},\"to\":{\"line\":19,\"ch\":69}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":116},\"to\":{\"line\":16,\"ch\":116}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":375},\"to\":{\"line\":16,\"ch\":375}},\"scroll\":3.222355088425955}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":318},\"to\":{\"line\":16,\"ch\":318}},\"scroll\":0}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":77},\"to\":{\"line\":41,\"ch\":77}},\"scroll\":23.95223473217332}"
+                },
+                {
+                  "title": "Anão macho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Anão macho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "anão femea",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/anão femea.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão macho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Anão macho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DruendeMacho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/DruendeMacho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão macho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Anão macho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DruendeNovo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/DruendeNovo.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DruendeMacho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/DruendeMacho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DruendeNovo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/DruendeNovo.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DruendeMacho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/DruendeMacho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DruendeNovo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/DruendeNovo.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ola",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/ola.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "hallfingmacho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/hallfingmacho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "hallfingfemea",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/hallfingfemea.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "GoblinMacho",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/GoblinMacho.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "GoblinFemea",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/GoblinFemea.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "GnomoMasculino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/GnomoMasculino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "gnomoFeminina",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/gnomoFeminina.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos masculino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Elfos masculino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "gnomoFeminina",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/gnomoFeminina.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos masculino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Elfos masculino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ElfoFeminino",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/ElfoFeminino.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfa",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/Elfa.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "elfo",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"!Pesquisas/Imagens/elfo.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1-Informaçoes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/1-Informaçoes.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Raças",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Raças.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1-Informaçoes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/1-Informaçoes.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Raças",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Raças.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":30},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":1.2195121951219512}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":9,\"ch\":169}}}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":19.175675675675677}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":267},\"to\":{\"line\":15,\"ch\":267}},\"scroll\":3.222355088425955}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":29},\"to\":{\"line\":18,\"ch\":29}}}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":187},\"to\":{\"line\":15,\"ch\":187}},\"scroll\":0}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":113},\"to\":{\"line\":15,\"ch\":113}},\"scroll\":1.6111775442129774}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":435},\"to\":{\"line\":16,\"ch\":435}},\"scroll\":0}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.5760612785453505}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.5483870967741935}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":72},\"to\":{\"line\":53,\"ch\":72}},\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":93},\"to\":{\"line\":15,\"ch\":93}}}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":32},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":32},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.774193548387096}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":23}},\"scroll\":14.244626407369498}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":175},\"to\":{\"line\":21,\"ch\":175}},\"scroll\":8.055887721064888}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":19}},\"scroll\":15.681315104166666}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":297},\"to\":{\"line\":14,\"ch\":297}},\"scroll\":6.44471017685191}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":32},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":101},\"to\":{\"line\":19,\"ch\":101}}}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":110},\"to\":{\"line\":6,\"ch\":110}}}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gnomos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Anão",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "druende",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":22.5}"
+                },
+                {
+                  "title": "Elfos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cac98ff6995ea022",
+    "type": "split",
+    "children": [
+      {
+        "id": "e558b07622ab4fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6afb1652910b447e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03f7b51e7e715a6f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975eb7ae19007083",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "3a8b4e9c63ca81e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d0f4829c4707f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362d26da079ccbc9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02b2f85041d761f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5fafd8dc60f6058",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "052aa1ece6633c42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md"
+              }
+            }
+          },
+          {
+            "id": "e72b47afccd3ff92",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b76affe21ec67b45",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c426248de2b0b560",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f881ec65aa7985e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fcfabc67bb9bf83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "open-gate:Dungeon and dragon wiki": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "5846f709b7809b52",
+  "lastOpenFiles": [
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md.2023-08-13_21.48.16.foldersync.old",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Elfos.md",
+    "!Pesquisas/Imagens/Elfos masculino.png",
+    "!Pesquisas/Imagens/gnomoFeminina.png",
+    "!Pesquisas/Imagens/ElfoFeminino.png",
+    "!Pesquisas/Imagens/elfo.png",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Anão.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Gnomos.md",
+    "!Pesquisas/Imagens/Anão macho.png",
+    "!Pesquisas/Imagens/anão femea.png",
+    "!Pesquisas/Imagens/DruendeMacho.png",
+    "!Pesquisas/Imagens/DruendeNovo.png",
+    "!Pesquisas/Imagens/ola.png",
+    "!Pesquisas/Imagens/hallfingmacho.png",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/1-Informaçoes.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Raças.md",
+    "!Pesquisas/Imagens/organizar/681169512405000260.mp4",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/halfling.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Goblin.md",
+    "!Notas de Criação/ok/info raça.md",
+    "!Notas de Criação/ok",
+    "Elfo masculino.png.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md.2023-08-13_15.03.00.foldersync.old",
+    "anao femea.png.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/druende.md.2023-08-13_14.51.08.foldersync.old",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Humano.md",
+    "Druendemacho.md",
+    "DruendeNovo.png DruendeNovo.png.md",
+    "1-Mundus/1-Fundamentos/nota para eu nao esquecer.md",
+    "1-Mundus/1-Fundamentos/Gènesis.md",
+    "1-Mundus/1-Fundamentos/1-Guia Do mundo-.md",
+    "!Notas de Criação/nota para eu nao esquecer.md",
+    "!Notas de Criação/Mapas Mentais/Kanban sem título.md",
+    "!Notas de Criação/Mapas Mentais",
+    "alta entropia.md",
+    "Markdown/Insert Rollable Table/Insert Rollable Table - d8.md",
+    "Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
+    "Markdown/Insert Encounter (Initiative Tracker).md",
+    "Markdown/Insert Map (Leaflet).md",
+    "Markdown/Insert Markdown Images.md",
+    "Day Planners",
+    "1-Mundus",
+    "informaçoes=genesis.html",
+    "Sites/ellos rpg/index.htm",
+    "Sites/ellos rpg/index-1.htm",
+    "Notas de Criação/Sem título.canvas",
+    "Fundamentos/Raças/Untitled.canvas",
+    "Sem título.canvas"
+  ]
+}

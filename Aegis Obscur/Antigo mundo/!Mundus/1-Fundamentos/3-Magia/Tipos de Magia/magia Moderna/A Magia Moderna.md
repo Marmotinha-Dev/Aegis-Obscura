@@ -1,0 +1,1 @@
+A magia moderna foi desenvolvida depois de anos de pesquisa, sendo seus principais pioneiros os [[Allyd]], que trouxeram revoluções ao mundo, espalhando os novos conhecimentos por todo o globo. As áreas da magia moderna vão desde máquinas mágicas até a saúde.

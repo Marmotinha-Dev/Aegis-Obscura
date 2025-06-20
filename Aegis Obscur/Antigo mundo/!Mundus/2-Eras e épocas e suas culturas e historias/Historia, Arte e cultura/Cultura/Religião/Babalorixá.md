@@ -1,0 +1,1 @@
+As **Babalorixá** (Ou pai de santo ou pai)são curandeiras e feiticeiras que utilizam a **Magia rúnica** em seus rituais e práticas mágicas. Além disso, são responsáveis pela iniciação e liderança nos cultos.

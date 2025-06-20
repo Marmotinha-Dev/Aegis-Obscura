@@ -1,0 +1,1 @@
+A cordilheira da lua crescente é um local cercado por montanhas altas que chegam aos céus. Dentro dela está a [[vila da lua crescente]], onde habita o povo vampírico. As montanhas bloqueiam a luz direta do sol, fazendo com que a vila fique sem iluminação solar durante todo o dia. O [[Rio armazonas]] passa pelo meio da cordilheira.

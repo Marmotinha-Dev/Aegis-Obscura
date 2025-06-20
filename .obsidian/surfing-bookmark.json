@@ -1,0 +1,120 @@
+{
+  "bookmarks": [
+    {
+      "id": "1735598733",
+      "name": "Mythology | Encyclopedia Mythica",
+      "url": "https://pantheon.org/mythology",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707999909058,
+      "modified": 1707999909059
+    },
+    {
+      "id": "1026191093",
+      "name": "Callout - Kith - SlRvb's Documentation - Obsidian Publish",
+      "url": "https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Kith",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707763692969,
+      "modified": 1707763692970
+    },
+    {
+      "id": "577349334",
+      "name": "Regras da casa - Runas mágicas | Wiki | Dungeons And Dragons ™ (D&D) Amino",
+      "url": "https://aminoapps.com/c/dungeonsanddragonsbr/page/item/regras-da-casa-runas-magicas/o3NW_dorhoI7qnrVebbD2xo28Ra84GNDW1Y",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707687668037,
+      "modified": 1707687668038
+    },
+    {
+      "id": "19288642",
+      "name": "Forma de governo – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Forma_de_governo",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707571150021,
+      "modified": 1707571150022
+    },
+    {
+      "id": "-468051533",
+      "name": "D&D Wiki",
+      "url": "https://www.dandwiki.com/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707507205677,
+      "modified": 1707507205677
+    },
+    {
+      "id": "-1904588570",
+      "name": "RPG Language Generator - Word Confluxer | Artificial Language Word and Name Generator</small>",
+      "url": "https://basicroleplaying.net/conlang/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707507093076,
+      "modified": 1707507093076
+    },
+    {
+      "id": "-1824923409",
+      "name": "Language generator",
+      "url": "https://rollforfantasy.com/tools/language-generator.php",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707507001799,
+      "modified": 1707507001799
+    },
+    {
+      "id": "-1828249555",
+      "name": "Azgaar's Fantasy Map Generator v1.95.05",
+      "url": "https://azgaar.github.io/Fantasy-Map-Generator/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1707493510378,
+      "modified": 1707493510378
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

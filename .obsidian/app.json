@@ -1,0 +1,11 @@
+{
+  "showIndentGuide": false,
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "trashOption": "local",
+  "promptDelete": false,
+  "attachmentFolderPath": "Imagens",
+  "showUnsupportedFiles": false
+}

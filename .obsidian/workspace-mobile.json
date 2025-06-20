@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "6e26786684d1cc86",
+    "type": "split",
+    "children": [
+      {
+        "id": "65eeaee2eeaf09c1",
+        "type": "split",
+        "children": [
+          {
+            "id": "cf0c30aab0aec9a5",
+            "type": "split",
+            "children": [
+              {
+                "id": "f01883d10ded61b2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5007646ea5afb4e1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Deusa do Amor e da Paz liriys.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "a1c5267fc97507e5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "!-A historia/Crônica etherianas/Capítulo 1 lagrimas Lunares.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "74fd270ba4702f45",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "aaf06a5df6310b56",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/Therianos/Vulfen.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "37c6abebec21c1fb",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "368d23c962c6109d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "ba7866cd3fa85232",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fca60c0c882c8610",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1b5a2088205bfbbb",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09974d491f20521f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b518f1aeffc2eb07",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ea66f41b70dde086",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Mundus",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "352b7878a426c94a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a01c8e5a287cfc4d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "1b63d7e429683ef4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "93dce1cc5cf14fae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a8018f7ecba31516",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "!-A historia/Crônica etherianas/Capítulo 1 lagrimas Lunares.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dbf1ab78b7f5534e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "!-A historia/Crônica etherianas/Capítulo 1 lagrimas Lunares.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "af6ef577b87bd108",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "!-A historia/Crônica etherianas/Capítulo 1 lagrimas Lunares.md"
+          }
+        }
+      },
+      {
+        "id": "77bd9b0bbf575954",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "690e36c76813a756",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "459c80c3bd2fc65a",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "25f6144895d530e7",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      },
+      {
+        "id": "6ce52e41204035c9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "0cf51ad069abb812",
+        "type": "leaf",
+        "state": {
+          "type": "aHR0cHM6Ly90c3JkLmZhbmRvbS5jb20vcHQtYnIvd2lraS9DYXRlZ29yaWE6UmElQzMlQTdhc19PZmljaWFpcw==",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b518f1aeffc2eb07",
+  "lastOpenFiles": [
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/Historias Dos Povos e raças/As lagrimas Lunares.md",
+    "!-A historia/Crônica etherianas/Capítulo 1 lagrimas Lunares.md",
+    "Deusa do Amor e da Paz liriys.md",
+    "Pasted Image 20230903221423_063.png",
+    "Pasted Image 20230903222215_100.png",
+    "Vilia 2023-09-03-19-46.jpeg",
+    "Os deuses.md",
+    "Linhagem_das_Raças.png",
+    "linagens.jpeg",
+    "Vilia 2023-09-03-19-35/fmg_tile_0.png",
+    "Templates e tutoriais/10-Markdown/Insert Reference To Rollable Table.md",
+    "Templates e tutoriais/10-Markdown/Insert Monster (TTRPG Statblock).md",
+    "ReadItLater Inbox/Note 2023-08-16 18-20-07.md",
+    "Pasted Image 20230903205739_302.png",
+    "Day Planners/Day Planner-20230812.md",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/TimeLine.md",
+    "1-Mundus/1-Fundamentos/Gênese do Éter.md",
+    "!Pesquisas/PDF/old-dragon-homeless-dragon-sup-manual-de-racas-volume-i-biblioteca-elfica.pdf",
+    "!Pesquisas/PDF/mighty-blade-guia-do-heroi-racas-biblioteca-elfica.pdf",
+    "!Pesquisas/PDF/lobisomem-o-apocalipse-cancoes-do-sol-e-da-lua-contos-das-racas-metamorficas-biblioteca-elfica.pdf",
+    "!Pesquisas/PDF/diablo-rpg-racas-classes-e-skills-biblioteca-elfica.pdf",
+    "!Pesquisas/PDF/BESTIARIO RPG.pdf",
+    "!Pesquisas/PDF/1380081014656 (2) (1).pdf",
+    "!Pesquisas/PDF/15792102465e20d60604e8fguia-de-racas.pdf",
+    "!Pesquisas/PDF/3dt-racas-de-arton-e-u-f-o-team-biblioteca-elfica.pdf",
+    "!Pesquisas/Raças/Evolução Das Raças.md",
+    "!Pesquisas/Raças/Élirios/Nota sobre os halfling.md",
+    "!Pesquisas/Imagens/usiylinusFemea.png",
+    "!Pesquisas/Imagens/Untitled.canvas",
+    "!Pesquisas/Imagens/Untitled Kanban.md",
+    "!Pesquisas/Imagens/tilyfingFemea.png",
+    "!Pesquisas/Imagens/SýntrofosTrio.png",
+    "!Pesquisas/Chat Gpt/tabela periodica 2.md",
+    "!Pesquisas/Chat Gpt/tabela periodica.md",
+    "!Pesquisas/Chat Gpt/ok chat gpt.md",
+    "!Pesquisas/Chat Gpt/Nomes que o chat gpt me deu.md",
+    "!Pesquisas/Chat Gpt/Expiraçoes sugeridas pelo chat gpt/The saga of tanya/O Auge da União entre Magia e Armas de Fogo.md",
+    "!Pesquisas/Chat Gpt/Expiraçoes sugeridas pelo chat gpt/The saga of tanya/A Magia de The Saga of Tanya the Evil.md",
+    "!Pesquisas/Chat Gpt/1-BASE DO MUNDO/Base ChatGpt.md",
+    "!Pesquisas/Chat Gpt/1-BASE DO MUNDO/Base.md",
+    "!Notas de Criação/nota para eu nao esquecer.md",
+    "1-Mundus/1-Fundamentos/1-FundamentOS Do universo/1-Leis Fundamentais.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md",
+    "1-Mundus/1-Fundamentos/1-FundamentOS Do universo/Éter.md",
+    "1-Mundus/1-Fundamentos/1-FundamentOS Do universo/Mana.md",
+    "!Pesquisas/Culturas do nosso mundo 🌎",
+    "Untitled",
+    "Fundamentos/Raças/Untitled.canvas",
+    "Sem título.canvas",
+    "Fundamentos/Ok.canvas"
+  ]
+}

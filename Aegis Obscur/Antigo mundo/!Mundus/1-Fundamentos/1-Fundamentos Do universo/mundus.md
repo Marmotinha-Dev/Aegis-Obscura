@@ -1,0 +1,1 @@
+De forma simplificada é o universo ou em alguns casos o planeta.

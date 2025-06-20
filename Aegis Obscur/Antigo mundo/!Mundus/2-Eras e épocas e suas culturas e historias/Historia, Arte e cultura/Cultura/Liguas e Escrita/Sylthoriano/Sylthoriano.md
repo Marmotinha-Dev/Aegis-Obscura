@@ -1,0 +1,1 @@
+O sylthoriano e uma variação linguística que ser originou dos povos da [[raça ancestral(progenitora)]].

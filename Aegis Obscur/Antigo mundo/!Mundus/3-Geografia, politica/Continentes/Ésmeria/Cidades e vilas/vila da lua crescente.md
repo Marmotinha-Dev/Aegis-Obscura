@@ -1,0 +1,1 @@
+A vila da lua crescente é o lar do [[O povo vampírico]], aonde fazem comercio com as outras vilas próximas. por causa da falta de sol, eles produzem ervas, fungos, e produzem a bebida  [[nycretar (bebida)]]  

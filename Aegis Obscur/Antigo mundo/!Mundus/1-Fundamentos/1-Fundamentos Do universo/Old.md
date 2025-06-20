@@ -1,0 +1,2 @@
+Tags: #raças #OldLaguna #magia #fundamento 
+Todos os seres vivos possuem um núcleo etérico, conhecido como "Old", que a fonte da energia virtal e espiritual de um ser vivo. Ele produz A mana que sustenta o funcionamento do corpo e da mente, ele ser conecta ao corpo a partir das [[Veias de mana(circuitos)]]. Ele produz a [[Mana]] a partir da coleta de éter na atmosfera, transformando em mana. porém ser um individuo ficar sem mana em seu corpo ele morrerá, ou ser o individuo ter muita mana em seu copo morrerá de intoxicação de mana.

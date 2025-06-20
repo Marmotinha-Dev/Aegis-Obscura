@@ -1,0 +1,1 @@
+As **Lalorixá**(Mãe de santo, ou mãe) são curandeiras e feiticeiras que utilizam a **Magia rúnica** em seus rituais e práticas mágicas. Além disso, são responsáveis pela iniciação e liderança nos cultos.

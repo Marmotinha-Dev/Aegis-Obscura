@@ -1,0 +1,2 @@
+Tags: #OldLaguna #dons #magia 
+O old laguna concede dons ao seres vivos desde de ser imortal a nunca confundi o sal com açúcar esses dons são raríssimos e poucas pessoas recebem e a que recebem recebem um comum como no caso da açúcar raras vezes o don e algo poderoso ou útil, isto e uma dádiva dada pelo old laguna ao seres vivos

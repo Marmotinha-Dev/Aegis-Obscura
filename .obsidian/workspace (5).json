@@ -1,0 +1,496 @@
+{
+  "main": {
+    "id": "a348032d5eb0fde2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf6f92bb1022ad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fe73c576e542911",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Oque é",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/1- períodos Da Historia/Oque é.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":15}},\"scroll\":0.8861892583120204}"
+                },
+                {
+                  "title": "Stellamara",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Stellamara.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.475654791128568}"
+                },
+                {
+                  "title": "A História da Grande Separação",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/A História da Grande Separação.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":13.696428571428571}"
+                },
+                {
+                  "title": "Allyd (Revisado)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64186e9d0ad193b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5292805988dd1864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9313c9a5c0fc44c9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd7dc29a87e47368",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tipos de dados",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "550db4911746d59b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94b6e51c046ed884",
+    "type": "split",
+    "children": [
+      {
+        "id": "bca1607a0e1121a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44819f60334c9562",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad0162644c501d5b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff99dc9bc425779f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efb12f893b5e4b60",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md"
+              }
+            }
+          },
+          {
+            "id": "82f96f005e1499d5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce490f68ad512374",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f4e623943d61b5f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee19e5f226e8582a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebd1a9b6083e21ac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdb59b11afd6f5a8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "ava.write.sidebar",
+              "state": {}
+            }
+          },
+          {
+            "id": "32a3a63fc9f6d9df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f0259601b8a2537",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "e79fe7fdc5788f1e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "7efb4a373ee8f641",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "44b61dfad577c71f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 521.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ai-research-assistant:AI Research Assistant": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "open-vscode:VSCode": false,
+      "ava:Ava": false,
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false,
+      "bmo-chatbot:Chatbot (Clear Conversation)": false,
+      "custom-sort:Toggle custom sorting": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-importer:Open Importer": false,
+      "invio:Invio": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "open-gate:Raças": false,
+      "open-gate:raças 1": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "remotely-save:Remotely Save": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "9313c9a5c0fc44c9",
+  "lastOpenFiles": [
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/1- períodos Da Historia/Oque é.md",
+    "Pasted image 20231101194729.png",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Stellamara.md",
+    "1-Mundus/2-Eras e épocas e suas culturas e historias/Historia, Arte e cultura/Historia/A História da Grande Separação.md",
+    "1-Mundus/1-Fundamentos/2-Raças e Povos/Raças/1-Élirios/Allyd (Revisado).md",
+    "Day Planners/Day Planner-20231031.md",
+    "2-CC50/Módulo 1 (C)/Anotações da aula 1.md",
+    "1-Curso De Algoritmos e Lógica de Programação/Capítulo 1 Lógica, Algoritmo e Pseudocódigo/Tópico 3 Pseudocódico.md",
+    "1-Curso De Algoritmos e Lógica de Programação/Capítulo 1 Lógica, Algoritmo e Pseudocódigo/Tópico 2 Algoritmo.md",
+    "Ava - Getting Started.md",
+    "AI Research Assistant/History/New Chat.md",
+    "AI Research Assistant/History",
+    "AI Research Assistant",
+    "2-CC50/Módulo 0 (Scratch)/Anotações da Aula 0.md",
+    "2-CC50/Módulo 1 (C)",
+    "teste.md",
+    "Quais coisas devo estudar.md",
+    "Pdfs/R.jpg",
+    "1-Curso De Algoritmos e Lógica de Programação/Index.md",
+    "Pasted image 20231027170901.png",
+    "1-Curso De Algoritmos e Lógica de Programação/Pascal",
+    "1-Curso De Algoritmos e Lógica de Programação/Linguagens de aprendizado/Linguagem Égua.md",
+    "1-Curso De Algoritmos e Lógica de Programação/Capítulo 1 Lógica, Algoritmo e Pseudocódigo/Tópico 1 Lógica.md",
+    "1-Curso De Algoritmos e Lógica de Programação/Linguagens de aprendizado",
+    "1-Curso De Algoritmos e Lógica de Programação/Imagens e arquivos/Pasted image 20231005163952.png",
+    "1-Curso De Algoritmos e Lógica de Programação/Capítulo 3 Rotinas/Tópico 1 Procedimentos.md",
+    "Estudos Sobre liguagens de Programação/Curso JavaScript",
+    "Estudos Sobre liguagens de Programação/Curso Java",
+    "Estudos Sobre liguagens de Programação/Curso HTML",
+    "Estudos Sobre liguagens de Programação/Curso de Rust",
+    "Estudos Sobre liguagens de Programação/Curso de Linux",
+    "Excalidraw/Drawing 2023-10-24 18.59.34.excalidraw.md"
+  ]
+}

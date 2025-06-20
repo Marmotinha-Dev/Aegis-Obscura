@@ -1,0 +1,2 @@
+As cidades que estão proximas a costa do teritorio com outros paises, são cidades que foram fundadas depois da criação do pais.
+isso ser deve pois a evolução do estado e da espalhação da sociedade em um teritorio.

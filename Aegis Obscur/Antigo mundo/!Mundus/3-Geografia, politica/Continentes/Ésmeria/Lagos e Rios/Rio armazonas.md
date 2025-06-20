@@ -1,0 +1,1 @@
+O rio Amazonas passa por todo o continente, alguns nativos o chamam de "filha de Iemanjá".

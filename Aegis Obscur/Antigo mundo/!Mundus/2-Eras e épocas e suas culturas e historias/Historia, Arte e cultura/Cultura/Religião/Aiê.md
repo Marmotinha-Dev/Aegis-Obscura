@@ -1,0 +1,1 @@
+Na cultura Lycothiana para se referir ao mundo físico, tereno ou material. É o oposto de [[Orum]] que representa o mundo espiritual.

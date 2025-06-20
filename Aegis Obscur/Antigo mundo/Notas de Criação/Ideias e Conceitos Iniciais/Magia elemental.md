@@ -1,0 +1,2 @@
+Tags: #conceitoInicial #magia #Elemental
+um tipo de magia que poicos indivíduos tem e e concedida pelo old laguna, e a capacidade de controlar um determinado elememto, e algumas raças especificas possuem esse poder.

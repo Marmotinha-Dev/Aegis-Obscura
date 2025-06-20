@@ -1,0 +1,1 @@
+o período antes da grande separação foi marcado por o desenvolvimento da raça progenitora no mundus. umas das principais evoluções foram o descobrimento da [[Auricite]] e da magia dos  [[Magia rúnica]], e o desenvolvimento dos primeiros assentamentos e o surgimento das 4 grandes tribos no continente de pangeia.

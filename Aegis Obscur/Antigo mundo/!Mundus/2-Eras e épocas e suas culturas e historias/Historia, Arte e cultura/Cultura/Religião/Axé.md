@@ -1,0 +1,1 @@
+Axé e um termo denominando para a [[Mana]] na religião dos [[Lycoth]].

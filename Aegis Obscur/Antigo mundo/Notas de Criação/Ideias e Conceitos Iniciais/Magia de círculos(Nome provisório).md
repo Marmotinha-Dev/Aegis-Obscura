@@ -1,0 +1,4 @@
+Tags: #magia #conceitoInicial 
+Magia de círculos( vou botar outro nome) ela usar símbolos magicos e cálculos com a tabela periódica do meu mundo seria tipo cslculos de Química para gerar a reação magica, o éter por ser maleável e apartir dessa mandaca apartir destes calculos gerando como fosse reações químicas na vida real. Por causa desta comprexidade so será descoberto depois da era medieval
+Dento da magia de círculos tem milhares de tipos de magia e classificações desde magia de ataque cura defesa teleporte a imaginação e o limite esse limite aumenta 1000x mais quando usa-se cristais de magicos.
+Como a magia tem varias formas de ser manifestar podemos dizer que existe varias formas de fazer magia a de círculos te dar mais controle sobre a magia podendo fazer coisas magnificas

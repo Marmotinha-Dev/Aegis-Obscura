@@ -1,0 +1,2 @@
+Tags: #OldLaguna #fundamento 
+A mana e a energia produzida pelo [[Old]] para o funcionamento do corpo, mente, etc. ela possui características altamente maleáveis, a mana pura usada em magia só tem a capacidade de ser uma força da natureza, não um elemento mas sim conceitos como gravidade, tempo-espaço etc.

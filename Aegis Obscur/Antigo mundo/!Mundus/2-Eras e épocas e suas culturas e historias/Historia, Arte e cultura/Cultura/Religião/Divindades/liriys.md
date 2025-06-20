@@ -1,0 +1,1 @@
+A Deusa do Amor faz parte da religião dos [[Allyd]], sendo uma religião monoteísta. Os Allyd acreditam no amor ao próximo, na compaixão e na paz entre os indivíduos. Acreditam que, para alcançar a paz e o amor, é necessário primeiro compreender a si mesmos, amar a si mesmos para então poder amar ao próximo.
